@@ -37,5 +37,3 @@ ssld -s binary.dylib -ident testname -e entitlements.xml -cms cms.der
 ssld -cls binary.dylib
 ```
 
-## Contact / 联系方式  
-📧 7029974@qq.com 
