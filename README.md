@@ -18,9 +18,6 @@ ssld -s binary.dylib -ident testname -e entitlements.xml -cms cms.der
 ssld -cls binary.dylib
 ```
 
-### 📝 Documentation
-See [Wiki](https://github.com/username/repo/wiki) for details.
-
 ---
 
 ## 中文
